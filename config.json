@@ -1,0 +1,14 @@
+{
+  "app": "Slinky",
+  "version": "1.0",
+  "keys": [
+    {
+      "key": "|Slinky|-A9F2K-QW7Z1",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "|Slinky|-X7P9M-2KQ8Z",
+      "expires": "2025-10-01"
+    }
+  ]
+}
